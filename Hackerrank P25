@@ -1,0 +1,14 @@
+import numpy as np
+
+A=list(map(int,input().split()))
+    
+B=list(map(int,input().split()))
+    
+
+A=np.array(A)
+B=np.array(B)
+
+R1=np.inner(A,B)
+print(R1)
+R2=np.outer(A,B)
+print(R2)
