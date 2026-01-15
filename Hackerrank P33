@@ -1,0 +1,31 @@
+def print_rangoli(size):
+    # your code goes here
+
+    import string
+    
+    # First 'size' lowercase letters
+    letters = string.ascii_lowercase
+    
+    lines = []
+    width = 4 * size - 3   # Total width of each line
+    
+    # Upper half (including middle line)
+    for i in range(size):
+        # Letters go from current letter down to 'a' and back
+        left = letters[size-1 : size-1-i : -1]
+        center = letters[size-1-i]
+        right = letters[size-i : size]
+        
+        row = "-".join(left + center + right)
+        lines.append(row.center(width, "-"))
+    
+    # Lower half (mirror of upper half excluding the middle line)
+    for i in range(size-2, -1, -1):
+        lines.append(lines[i])
+    
+    # Print the rangoli
+    print("\n".join(lines))
+
+if __name__ == '__main__':
+    n = int(input())
+    print_rangoli(n)
