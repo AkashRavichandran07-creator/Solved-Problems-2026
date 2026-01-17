@@ -17,6 +17,7 @@ C and Python Programming
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0069-sqrtx) |
