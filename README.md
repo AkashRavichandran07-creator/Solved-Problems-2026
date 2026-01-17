@@ -20,6 +20,7 @@ C and Python Programming
 | [0013-roman-to-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0069-sqrtx) |
+| [2485-find-the-pivot-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,8 @@ C and Python Programming
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
