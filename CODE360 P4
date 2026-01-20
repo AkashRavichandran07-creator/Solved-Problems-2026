@@ -1,0 +1,4 @@
+from typing import List
+
+def swapNumber(a:list,  b: list) -> None:
+ a[:], b[:] = b[:], a[:]
