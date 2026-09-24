@@ -26,6 +26,7 @@ C and Python Programming
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0058-length-of-last-word) |
 ## Binary Search
 |  |
 | ------- |
