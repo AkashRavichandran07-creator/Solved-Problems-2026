@@ -26,6 +26,7 @@ C and Python Programming
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0058-length-of-last-word) |
 ## Binary Search
 |  |
@@ -39,4 +40,12 @@ C and Python Programming
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/2485-find-the-pivot-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
