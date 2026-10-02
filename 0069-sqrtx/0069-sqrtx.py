@@ -1,5 +1,5 @@
 class Solution:
-    def mySqrt(self, x: int) -> int:
+    def mySqrt(self, x):
         if x < 2:
             return x
         
@@ -18,4 +18,3 @@ class Solution:
                 right = mid - 1
         
         return ans
-
