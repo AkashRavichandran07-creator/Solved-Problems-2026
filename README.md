@@ -57,4 +57,8 @@ C and Python Programming
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0027-remove-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkashRavichandran07-creator/Solved-Problems-2026/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
